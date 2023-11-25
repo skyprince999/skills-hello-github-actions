@@ -1,4 +1,4 @@
-name: Post welcome comment
+name: Post welcome comment - checking where I am committing
 on:
   pull_request:
     types: [opened]
